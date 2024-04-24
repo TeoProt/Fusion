@@ -1,0 +1,3 @@
+/Users/teoprotoulis/Desktop/PhD/Drones/Fusion/Python/Python-C-API/build-dir/CMakeFiles/imufusion.dir
+/Users/teoprotoulis/Desktop/PhD/Drones/Fusion/Python/Python-C-API/build-dir/CMakeFiles/edit_cache.dir
+/Users/teoprotoulis/Desktop/PhD/Drones/Fusion/Python/Python-C-API/build-dir/CMakeFiles/rebuild_cache.dir

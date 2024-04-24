@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libimufusion.a CMakeFiles/imufusion.dir/CMakeFiles/3.27.7/CompilerIdC/CMakeCCompilerId.o CMakeFiles/imufusion.dir/imufusion.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libimufusion.a
