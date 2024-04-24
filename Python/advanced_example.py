@@ -1,7 +1,8 @@
-import imufusion
 import matplotlib.pyplot as pyplot
 import numpy
 import sys
+sys.path.append("Python-C-API/build-dir")
+import imufusion
 
 # Import sensor data
 data = numpy.genfromtxt("sensor_data.csv", delimiter=",", skip_header=1)
